@@ -1,0 +1,22 @@
+2023-10-01 10:00:00 INFO Application started successfully
+2023-10-01 10:05:00 ERROR Database connection timeout
+2023-10-01 10:10:00 WARN High memory usage detected
+2023-10-01 10:15:00 INFO User authentication successful
+2023-10-01 10:20:00 ERROR Network connectivity issue
+2023-10-01 10:25:00 INFO Request processed successfully
+2023-10-01 10:30:00 ERROR Database connection timeout
+2023-10-01 10:35:00 WARN High CPU usage detected
+2023-10-01 10:40:00 INFO Application restarted
+2023-10-01 10:45:00 ERROR Authentication failure
+2023-10-01 10:50:00 WARN Memory leak detected
+2023-10-01 10:55:00 INFO Backup completed successfully
+2023-10-01 11:00:00 ERROR Database connection timeout
+2023-10-01 11:05:00 WARN High memory usage detected
+2023-10-01 11:10:00 INFO User session expired
+2023-10-01 11:15:00 ERROR Network connectivity issue
+2023-10-01 11:20:00 INFO Request processed successfully
+2023-10-01 11:25:00 ERROR Database connection timeout
+2023-10-01 11:30:00 WARN High CPU usage detected
+2023-10-01 11:35:00 INFO Application restarted
+2023-10-01 11:40:00 ERROR Authentication failure
+2023-10-01 11:45:00 WARN Memory leak detected
